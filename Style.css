@@ -2,16 +2,10 @@ html,
 body {
   margin: 0;
   padding: 0;
-  background: rgb(255, 0, 0);
+  background: rgb(238, 255, 0);
 }
 
 canvas {
   display: block;
   
-}
-
-.js {
-
-margin-left: 200px;
-
 }

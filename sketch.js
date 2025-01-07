@@ -5,7 +5,7 @@ function setup() {
 
 function draw() {
   stroke("black");
-  fill("transparent");
+  fill("black");
 
   //console.log(mouseIsPressed)
 
