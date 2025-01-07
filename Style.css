@@ -2,10 +2,10 @@ html,
 body {
   margin: 0;
   padding: 0;
-  background-color: rgb(238, 255, 0);
+ 
 }
 
-canvas {
+html, canvas {
   display: block;
-  
+   background: rgb(21, 255, 0);
 }
